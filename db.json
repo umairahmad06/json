@@ -1,0 +1,109 @@
+{
+    "operators": [
+        {
+            "operatorId": "2632623232542554",
+            "operatorKey": "865265003562362",
+            "shift": "Evening",
+            "shiftAbc": "C",
+            "jobCard": "562426",
+            "loom": "6232",
+            "faults": [
+                {
+                    "id": "e716a85a-98c1-4b7b-b7bc-924b65593878",
+                    "pt": "1",
+                    "fault": "Elect"
+                },
+                {
+                    "id": "a4ebb748-46f5-469c-b30b-f55c16ae964a",
+                    "pt": "2",
+                    "fault": "Lap Cone"
+                },
+                {
+                    "id": "67748d96-5a08-4cc3-a07f-12ff8ea3c2af",
+                    "pt": "3",
+                    "fault": "Rough Tube"
+                }
+            ]
+        },
+        {
+            "operatorId": "263262355542554",
+            "operatorKey": "865265389562362",
+            "shift": "Evening",
+            "shiftAbc": "C",
+            "jobCard": "562326",
+            "loom": "622",
+            "faults": [
+                {
+                    "id": "e716a85a-98c1-4b7b-b7bc-924b65593878",
+                    "pt": "1",
+                    "fault": "Elect"
+                },
+                {
+                    "id": "a4ebb748-46f5-469c-b30b-f55c16ae964a",
+                    "pt": "2",
+                    "fault": "Lap Cone"
+                },
+                {
+                    "id": "67748d96-5a08-4cc3-a07f-12ff8ea3c2af",
+                    "pt": "3",
+                    "fault": "Rough Tube"
+                }
+            ]
+        },
+        {
+            "operatorId": "2632625452542554",
+            "operatorKey": "865265383562362",
+            "shift": "Evening",
+            "shiftAbc": "C",
+            "jobCard": "562326",
+            "loom": "612",
+            "faults": [
+                {
+                    "id": "e716a85a-98c1-4b7b-b7bc-924b65593878",
+                    "pt": "1",
+                    "fault": "Elect"
+                },
+                {
+                    "id": "a4ebb748-46f5-469c-b30b-f55c16ae964a",
+                    "pt": "2",
+                    "fault": "Lap Cone"
+                },
+                {
+                    "id": "67748d96-5a08-4cc3-a07f-12ff8ea3c2af",
+                    "pt": "3",
+                    "fault": "Rough Tube"
+                }
+            ]
+        },
+        {
+            "operatorId": "2632623299542554",
+            "operatorKey": "865265323262362",
+            "shift": "Evening",
+            "shiftAbc": "C",
+            "jobCard": "562326",
+            "loom": "532",
+            "faults": [
+                {
+                    "id": "67748d56-5a08-4cc3-a07f-12ff8ea3c2af",
+                    "pt": "3",
+                    "fault": "Rough Tube"
+                }
+            ]
+        },
+        {
+            "operatorId": "2632628832542554",
+            "operatorKey": "865265313562362",
+            "shift": "Evening",
+            "shiftAbc": "C",
+            "jobCard": "552326",
+            "loom": "232",
+            "faults": [
+                {
+                    "id": "e713a85a-98c1-4b7b-b7bc-924b65593878",
+                    "pt": "1",
+                    "fault": "Elect"
+                }
+            ]
+        }
+    ]
+}
